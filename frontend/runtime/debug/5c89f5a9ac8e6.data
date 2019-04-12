@@ -1,0 +1,352 @@
+a:12:{s:6:"config";s:4430:"a:5:{s:10:"phpVersion";s:6:"5.6.31";s:10:"yiiVersion";s:8:"2.0.13.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.13.1";s:4:"name";s:10:"vivaan-lms";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.31";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:49:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:45:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-debug";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:45:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-faker";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:43:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-gii";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:52:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-krajee-base";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:53:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-growl";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:53:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-alert";}}s:22:"lavrentiev/yii2-toastr";a:3:{s:4:"name";s:22:"lavrentiev/yii2-toastr";s:7:"version";s:7:"2.0.2.0";s:5:"alias";a:1:{s:26:"@lavrentiev/widgets/toastr";s:53:"C:\wamp64\www\cyber\vendor/lavrentiev/yii2-toastr/src";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:55:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-depdrop";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:55:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-select2";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:47:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-dialog";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/form";s:58:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-activeform";}}s:28:"2amigos/yii2-ckeditor-widget";a:3:{s:4:"name";s:28:"2amigos/yii2-ckeditor-widget";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:19:"@dosamigos/ckeditor";s:59:"C:\wamp64\www\cyber\vendor/2amigos/yii2-ckeditor-widget/src";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:51:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-swiftmailer";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:58:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-datepicker";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.4.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:62:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-widget-datetimepicker";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:43:"C:\wamp64\www\cyber\vendor/yiisoft/yii2-jui";}}s:31:"philippfrenzel/yii2fullcalendar";a:3:{s:4:"name";s:31:"philippfrenzel/yii2fullcalendar";s:7:"version";s:7:"3.9.0.0";s:5:"alias";a:1:{s:17:"@yii2fullcalendar";s:58:"C:\wamp64\www\cyber\vendor/philippfrenzel/yii2fullcalendar";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:45:"C:\wamp64\www\cyber\vendor/kartik-v/yii2-mpdf";}}}}";s:7:"request";s:5627:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:11:{s:4:"host";s:9:"localhost";s:10:"connection";s:10:"keep-alive";s:6:"accept";s:3:"*/*";s:3:"dnt";s:1:"1";s:12:"x-csrf-token";s:88:"MD6NPmkFTQ_bxoJpDHabGExcDhIHNnNJHJibrfgWZ9BAWvQOJEg5Ve6QwCtnL89JBR9nU3JBGAZa3MKAyHwfvQ==";s:16:"x-requested-with";s:14:"XMLHttpRequest";s:10:"user-agent";s:115:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36";s:7:"referer";s:52:"http://localhost/cyber/learner-activity/lessons?id=7";s:15:"accept-encoding";s:17:"gzip, deflate, br";s:15:"accept-language";s:14:"en-US,en;q=0.9";s:6:"cookie";s:445:"_csrf=f7da36ee78fc93d86838569b3c7bb65121b0cd2516d21996910daa0920c4db30a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pdy0MMtZ5VBBkYTQICiAuwkOFDY-0jxm%22%3B%7D; advanced-frontend=8si7bdhbeltfreok0j9q4ddq17; _identity-frontend=ad65ed33b32914eda9cb277a36dcfed14bbc143fa36d2f4a28583cb7e86089cda%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B3%2C%22JJWeNtVFc74XGPrrET37puxxSrxWWniG%22%2C2592000%5D%22%3B%7D";}s:15:"responseHeaders";a:5:{s:12:"X-Powered-By";s:10:"PHP/5.6.31";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:37:"learner-activity/get-course-materials";s:6:"action";s:74:"frontend\controllers\LearnerActivityController::actionGetCourseMaterials()";s:12:"actionParams";a:3:{i:0;s:1:"7";i:1;s:2:"36";i:2;s:2:"69";}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:1;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:42:{s:24:"REDIRECT_REDIRECT_STATUS";s:3:"200";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:9:"localhost";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_ACCEPT";s:3:"*/*";s:8:"HTTP_DNT";s:1:"1";s:17:"HTTP_X_CSRF_TOKEN";s:88:"MD6NPmkFTQ_bxoJpDHabGExcDhIHNnNJHJibrfgWZ9BAWvQOJEg5Ve6QwCtnL89JBR9nU3JBGAZa3MKAyHwfvQ==";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:15:"HTTP_USER_AGENT";s:115:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36";s:12:"HTTP_REFERER";s:52:"http://localhost/cyber/learner-activity/lessons?id=7";s:20:"HTTP_ACCEPT_ENCODING";s:17:"gzip, deflate, br";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.9";s:11:"HTTP_COOKIE";s:445:"_csrf=f7da36ee78fc93d86838569b3c7bb65121b0cd2516d21996910daa0920c4db30a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22pdy0MMtZ5VBBkYTQICiAuwkOFDY-0jxm%22%3B%7D; advanced-frontend=8si7bdhbeltfreok0j9q4ddq17; _identity-frontend=ad65ed33b32914eda9cb277a36dcfed14bbc143fa36d2f4a28583cb7e86089cda%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B3%2C%22JJWeNtVFc74XGPrrET37puxxSrxWWniG%22%2C2592000%5D%22%3B%7D";s:4:"PATH";s:500:"C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\wamp64\bin\php\php5.6.31;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Java\jdk-10.0.1;;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:95:"<address>Apache/2.4.27 (Win64) OpenSSL/1.1.0f PHP/5.6.31 Server at localhost Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.27 (Win64) OpenSSL/1.1.0f PHP/5.6.31";s:11:"SERVER_NAME";s:9:"localhost";s:11:"SERVER_ADDR";s:3:"::1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:3:"::1";s:13:"DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:13:"C:/wamp64/www";s:12:"SERVER_ADMIN";s:29:"wampserver@wampserver.invalid";s:15:"SCRIPT_FILENAME";s:42:"C:/wamp64/www/cyber/frontend/web/index.php";s:11:"REMOTE_PORT";s:4:"2730";s:12:"REDIRECT_URL";s:57:"/cyber/frontend/web/learner-activity/get-course-materials";s:21:"REDIRECT_QUERY_STRING";s:38:"course_id=7&lesson_id=36&section_id=69";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:38:"course_id=7&lesson_id=36&section_id=69";s:11:"REQUEST_URI";s:83:"/cyber/learner-activity/get-course-materials?course_id=7&lesson_id=36&section_id=69";s:11:"SCRIPT_NAME";s:29:"/cyber/frontend/web/index.php";s:8:"PHP_SELF";s:29:"/cyber/frontend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1552545193.4920001;s:12:"REQUEST_TIME";i:1552545193;}s:3:"GET";a:3:{s:9:"course_id";s:1:"7";s:9:"lesson_id";s:2:"36";s:10:"section_id";s:2:"69";}s:4:"POST";a:0:{}s:6:"COOKIE";a:3:{s:5:"_csrf";s:130:"f7da36ee78fc93d86838569b3c7bb65121b0cd2516d21996910daa0920c4db30a:2:{i:0;s:5:"_csrf";i:1;s:32:"pdy0MMtZ5VBBkYTQICiAuwkOFDY-0jxm";}";s:17:"advanced-frontend";s:26:"8si7bdhbeltfreok0j9q4ddq17";s:18:"_identity-frontend";s:158:"ad65ed33b32914eda9cb277a36dcfed14bbc143fa36d2f4a28583cb7e86089cda:2:{i:0;s:18:"_identity-frontend";i:1;s:46:"[3,"JJWeNtVFc74XGPrrET37puxxSrxWWniG",2592000]";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:5:{s:7:"__flash";a:0:{}s:11:"__returnUrl";s:7:"/cyber/";s:2:"id";i:5;s:4:"__id";i:3;s:6:"Course";s:1:"7";}}";s:3:"log";s:11031:"a:1:{s:8:"messages";a:27:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1552545193.548384;i:4;a:0:{}i:5;i:3141616;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1552545193.548562;i:4;a:0:{}i:5;i:3144552;}i:2;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1552545193.642873;i:4;a:0:{}i:5;i:4962224;}i:3;a:6:{i:0;s:53:"SELECT * FROM `user` WHERE (`id`=3) AND (`status`=10)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.675946;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7630760;}i:4;a:6:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=cyber";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1552545193.6763539;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7638608;}i:9;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6819711;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7690032;}i:12;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.688024;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7748240;}i:15;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1552545193.705601;i:4;a:0:{}i:5;i:8678504;}i:16;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1552545193.7141311;i:4;a:0:{}i:5;i:9278744;}i:17;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1552545193.7149911;i:4;a:0:{}i:5;i:9346584;}i:25;a:6:{i:0;s:56:"Route requested: 'learner-activity/get-course-materials'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1552545193.717118;i:4;a:0:{}i:5;i:9409608;}i:26;a:6:{i:0;s:51:"Route to run: learner-activity/get-course-materials";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1552545193.7200651;i:4;a:0:{}i:5;i:9708920;}i:27;a:6:{i:0;s:90:"Running action: frontend\controllers\LearnerActivityController::actionGetCourseMaterials()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1552545193.7214539;i:4;a:0:{}i:5;i:9757792;}i:28;a:6:{i:0;s:38:"SELECT * FROM `courses` WHERE `id`='7'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.722856;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9856912;}i:31;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `courses`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7243271;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9877576;}i:34;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'courses' AND kcu.table_name = 'courses'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.728869;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9898656;}i:37;a:6:{i:0;s:39:"SELECT * FROM `lessons` WHERE `id`='36'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7324049;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9960912;}i:40;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `lessons`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7349269;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9980480;}i:43;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'lessons' AND kcu.table_name = 'lessons'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7368431;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9997976;}i:46;a:6:{i:0;s:40:"SELECT * FROM `sections` WHERE `id`='69'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7393091;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10061064;}i:49;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `sections`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.741286;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10080680;}i:52;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sections' AND kcu.table_name = 'sections'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.743036;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10098200;}i:55;a:6:{i:0;s:42:"SELECT * FROM `learners` WHERE `user_id`=3";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.746295;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10261792;}i:58;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `learners`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7472539;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10282560;}i:61;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'learners' AND kcu.table_name = 'learners'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.750309;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10307224;}i:64;a:6:{i:0;s:130:"SELECT * FROM `learner_activity` WHERE (`learner_id`=1) AND (`lesson_id`='36') AND (`section_id`='69') AND (`completion_status`=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7538619;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:164;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10302360;}i:67;a:6:{i:0;s:336:"SELECT c.`id`, c.`lesson_id` FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE  a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` = (SELECT MIN(c.`id`) FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE a.`id` = 7 AND a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` > 69  AND c.`lesson_id` > 36)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.758611;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:219;s:8:"function";s:8:"queryOne";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:10306080;}}}";s:9:"profiling";s:19218:"a:3:{s:6:"memory";i:10620568;s:4:"time";d:0.25521302223205566;s:8:"messages";a:36:{i:5;a:6:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=cyber";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1552545193.676821;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7641024;}i:6;a:6:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=cyber";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1552545193.6790831;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7652128;}i:7;a:6:{i:0;s:53:"SELECT * FROM `user` WHERE (`id`=3) AND (`status`=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6795299;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7650064;}i:8;a:6:{i:0;s:53:"SELECT * FROM `user` WHERE (`id`=3) AND (`status`=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.680558;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7657360;}i:10;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.682446;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7691952;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6837001;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7728592;}i:13;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.688587;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7751128;}i:14;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6895061;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7755000;}i:29;a:6:{i:0;s:38:"SELECT * FROM `courses` WHERE `id`='7'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.723011;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9858912;}i:30;a:6:{i:0;s:38:"SELECT * FROM `courses` WHERE `id`='7'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7237501;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9864272;}i:32;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `courses`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.724812;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9879600;}i:33;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `courses`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.726269;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9899752;}i:35;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'courses' AND kcu.table_name = 'courses'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7290709;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9901624;}i:36;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'courses' AND kcu.table_name = 'courses'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.730062;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9905528;}i:38;a:6:{i:0;s:39:"SELECT * FROM `lessons` WHERE `id`='36'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7325661;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9962912;}i:39;a:6:{i:0;s:39:"SELECT * FROM `lessons` WHERE `id`='36'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7345719;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9966928;}i:41;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `lessons`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7350919;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9982480;}i:42;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `lessons`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7358401;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9996728;}i:44;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'lessons' AND kcu.table_name = 'lessons'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.737016;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10000944;}i:45;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'lessons' AND kcu.table_name = 'lessons'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.737637;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10004824;}i:47;a:6:{i:0;s:40:"SELECT * FROM `sections` WHERE `id`='69'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7394609;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10063080;}i:48;a:6:{i:0;s:40:"SELECT * FROM `sections` WHERE `id`='69'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7409821;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10067160;}i:50;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `sections`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.741514;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10082704;}i:51;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `sections`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7421081;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10096960;}i:53;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sections' AND kcu.table_name = 'sections'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7431929;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10101168;}i:54;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sections' AND kcu.table_name = 'sections'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7437251;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10105048;}i:56;a:6:{i:0;s:42:"SELECT * FROM `learners` WHERE `user_id`=3";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7464609;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10263776;}i:57;a:6:{i:0;s:42:"SELECT * FROM `learners` WHERE `user_id`=3";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.746963;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10269464;}i:59;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `learners`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7474141;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10284584;}i:60;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `learners`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.74807;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10311840;}i:62;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'learners' AND kcu.table_name = 'learners'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7505419;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10310192;}i:63;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'learners' AND kcu.table_name = 'learners'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.751673;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10318160;}i:65;a:6:{i:0;s:130:"SELECT * FROM `learner_activity` WHERE (`learner_id`=1) AND (`lesson_id`='36') AND (`section_id`='69') AND (`completion_status`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.754046;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:164;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10304512;}i:66;a:6:{i:0;s:130:"SELECT * FROM `learner_activity` WHERE (`learner_id`=1) AND (`lesson_id`='36') AND (`section_id`='69') AND (`completion_status`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7569339;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:164;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10307672;}i:68;a:6:{i:0;s:336:"SELECT c.`id`, c.`lesson_id` FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE  a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` = (SELECT MIN(c.`id`) FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE a.`id` = 7 AND a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` > 69  AND c.`lesson_id` > 36)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7587509;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:219;s:8:"function";s:8:"queryOne";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:10308704;}i:69;a:6:{i:0;s:336:"SELECT c.`id`, c.`lesson_id` FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE  a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` = (SELECT MIN(c.`id`) FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE a.`id` = 7 AND a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` > 69  AND c.`lesson_id` > 36)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.762711;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:219;s:8:"function";s:8:"queryOne";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:10311768;}}}";s:2:"db";s:18462:"a:1:{s:8:"messages";a:34:{i:7;a:6:{i:0;s:53:"SELECT * FROM `user` WHERE (`id`=3) AND (`status`=10)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6795299;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7650064;}i:8;a:6:{i:0;s:53:"SELECT * FROM `user` WHERE (`id`=3) AND (`status`=10)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.680558;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7657360;}i:10;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.682446;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7691952;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6837001;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7728592;}i:13;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.688587;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7751128;}i:14;a:6:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.6895061;i:4;a:1:{i:0;a:5:{s:4:"file";s:42:"C:\wamp64\www\cyber\common\models\User.php";s:4:"line";i:82;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:7755000;}i:29;a:6:{i:0;s:38:"SELECT * FROM `courses` WHERE `id`='7'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.723011;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9858912;}i:30;a:6:{i:0;s:38:"SELECT * FROM `courses` WHERE `id`='7'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7237501;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9864272;}i:32;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `courses`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.724812;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9879600;}i:33;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `courses`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.726269;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9899752;}i:35;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'courses' AND kcu.table_name = 'courses'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7290709;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9901624;}i:36;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'courses' AND kcu.table_name = 'courses'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.730062;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:154;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9905528;}i:38;a:6:{i:0;s:39:"SELECT * FROM `lessons` WHERE `id`='36'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7325661;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9962912;}i:39;a:6:{i:0;s:39:"SELECT * FROM `lessons` WHERE `id`='36'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7345719;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9966928;}i:41;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `lessons`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7350919;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9982480;}i:42;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `lessons`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7358401;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:9996728;}i:44;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'lessons' AND kcu.table_name = 'lessons'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.737016;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10000944;}i:45;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'lessons' AND kcu.table_name = 'lessons'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.737637;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:155;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10004824;}i:47;a:6:{i:0;s:40:"SELECT * FROM `sections` WHERE `id`='69'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7394609;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10063080;}i:48;a:6:{i:0;s:40:"SELECT * FROM `sections` WHERE `id`='69'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7409821;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10067160;}i:50;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `sections`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.741514;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10082704;}i:51;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `sections`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7421081;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10096960;}i:53;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sections' AND kcu.table_name = 'sections'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7431929;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10101168;}i:54;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sections' AND kcu.table_name = 'sections'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7437251;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:156;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10105048;}i:56;a:6:{i:0;s:42:"SELECT * FROM `learners` WHERE `user_id`=3";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7464609;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10263776;}i:57;a:6:{i:0;s:42:"SELECT * FROM `learners` WHERE `user_id`=3";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.746963;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10269464;}i:59;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `learners`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7474141;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10284584;}i:60;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `learners`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.74807;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10311840;}i:62;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'learners' AND kcu.table_name = 'learners'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7505419;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10310192;}i:63;a:6:{i:0;s:603:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'learners' AND kcu.table_name = 'learners'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.751673;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:159;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:10318160;}i:65;a:6:{i:0;s:130:"SELECT * FROM `learner_activity` WHERE (`learner_id`=1) AND (`lesson_id`='36') AND (`section_id`='69') AND (`completion_status`=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.754046;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:164;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10304512;}i:66;a:6:{i:0;s:130:"SELECT * FROM `learner_activity` WHERE (`learner_id`=1) AND (`lesson_id`='36') AND (`section_id`='69') AND (`completion_status`=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7569339;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:164;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:10307672;}i:68;a:6:{i:0;s:336:"SELECT c.`id`, c.`lesson_id` FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE  a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` = (SELECT MIN(c.`id`) FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE a.`id` = 7 AND a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` > 69  AND c.`lesson_id` > 36)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.7587509;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:219;s:8:"function";s:8:"queryOne";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:10308704;}i:69;a:6:{i:0;s:336:"SELECT c.`id`, c.`lesson_id` FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE  a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` = (SELECT MIN(c.`id`) FROM `courses` AS a, `lessons` AS b, `sections` AS c WHERE a.`id` = 7 AND a.`id` = b.`course_id` AND b.`id` = c.`lesson_id` AND c.`id` > 69  AND c.`lesson_id` > 36)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1552545193.762711;i:4;a:1:{i:0;a:5:{s:4:"file";s:70:"C:\wamp64\www\cyber\frontend\controllers\LearnerActivityController.php";s:4:"line";i:219;s:8:"function";s:8:"queryOne";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:10311768;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:94:"a:3:{s:5:"start";d:1552545193.5153849;s:3:"end";d:1552545193.7710831;s:6:"memory";i:10647120;}";s:4:"user";s:2005:"a:5:{s:2:"id";i:3;s:8:"identity";a:18:{s:2:"id";s:1:"3";s:10:"first_name";s:4:"null";s:9:"last_name";s:4:"null";s:9:"role_type";s:1:"4";s:5:"email";s:4:"null";s:10:"phone_code";s:4:"null";s:5:"phone";s:4:"null";s:8:"auth_key";s:34:"'JJWeNtVFc74XGPrrET37puxxSrxWWniG'";s:13:"password_hash";s:62:"'$2y$13$mttTLfUc2wKJvveXTzHFz.jboGr8iFADQpti7WTKPW0xd05VeFUTe'";s:20:"password_reset_token";s:4:"null";s:6:"status";s:2:"10";s:8:"added_by";s:1:"0";s:10:"created_at";s:21:"'2018-12-18 07:19:43'";s:10:"created_by";s:4:"null";s:10:"updated_at";s:21:"'2019-03-14 11:13:58'";s:10:"updated_by";s:1:"1";s:8:"two_fact";s:1:"1";s:9:"privilege";s:4:"null";}s:10:"attributes";a:18:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"Id";}i:1;a:2:{s:9:"attribute";s:10:"first_name";s:5:"label";s:10:"First Name";}i:2;a:2:{s:9:"attribute";s:9:"last_name";s:5:"label";s:9:"Last Name";}i:3;a:2:{s:9:"attribute";s:9:"role_type";s:5:"label";s:9:"Role Type";}i:4;a:2:{s:9:"attribute";s:5:"email";s:5:"label";s:5:"Email";}i:5;a:2:{s:9:"attribute";s:10:"phone_code";s:5:"label";s:10:"Phone Code";}i:6;a:2:{s:9:"attribute";s:5:"phone";s:5:"label";s:5:"Phone";}i:7;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:8;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:9;a:2:{s:9:"attribute";s:20:"password_reset_token";s:5:"label";s:20:"Password Reset Token";}i:10;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:11;a:2:{s:9:"attribute";s:8:"added_by";s:5:"label";s:8:"Added By";}i:12;a:2:{s:9:"attribute";s:10:"created_at";s:5:"label";s:10:"Created At";}i:13;a:2:{s:9:"attribute";s:10:"created_by";s:5:"label";s:10:"Created By";}i:14;a:2:{s:9:"attribute";s:10:"updated_at";s:5:"label";s:10:"Updated At";}i:15;a:2:{s:9:"attribute";s:10:"updated_by";s:5:"label";s:10:"Updated By";}i:16;a:2:{s:9:"attribute";s:8:"two_fact";s:5:"label";s:8:"Two Fact";}i:17;a:2:{s:9:"attribute";s:9:"privilege";s:5:"label";s:9:"Privilege";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:6:"router";s:1370:"a:1:{s:8:"messages";a:7:{i:18;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.7165151;i:4;a:0:{}i:5;i:9399840;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.716604;i:4;a:0:{}i:5;i:9401616;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.7167079;i:4;a:0:{}i:5;i:9403440;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.716815;i:4;a:0:{}i:5;i:9405232;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.7169199;i:4;a:0:{}i:5;i:9407056;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:33:"transaction/getrequestdetail/<id>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.7170091;i:4;a:0:{}i:5;i:9408872;}i:24;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1552545193.717057;i:4;a:0:{}i:5;i:9410136;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5c89f5a9ac8e6";s:3:"url";s:99:"http://localhost/cyber/learner-activity/get-course-materials?course_id=7&lesson_id=36&section_id=69";s:4:"ajax";i:1;s:6:"method";s:3:"GET";s:2:"ip";s:3:"::1";s:4:"time";d:1552545193.4920001;s:10:"statusCode";i:200;s:8:"sqlCount";i:17;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
